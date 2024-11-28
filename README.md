@@ -40,8 +40,8 @@ pip install -r requirements.txt
 
 Steps to Use the Code
 Clone this repository:
-git clone https://github.com/yourusername/fraud-detection.git
-cd fraud-detection
+git clone https://github.com/Mandlagoniwe6/CodSoftDATask5.git
+cd CodSoftDATask5
 
 Download the dataset:
 Obtain the dataset file creditcard.csv https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
